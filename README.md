@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone, 👋 I am Li Jiaying, and this is my github page. For more information, please visit my homepage at http://jiaying.li
 
 <!--
 **lijiaying/lijiaying** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
